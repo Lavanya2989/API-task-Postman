@@ -1,0 +1,2 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,lavanya,Lava,Raj,string@abc.com,string,1234567,0
